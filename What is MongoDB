@@ -1,0 +1,7 @@
+MongoDB was open-sourced in the year 2009 and the latest version of MongoDB is 3.6.
+There are several examples of  MongoDB data types like double, string, object, array and so on.
+MongoDB is a free and open-source cross-platform document-oriented database program.
+Classified as a NoSQL database program, MongoDB uses JSON-like documents with schemata. 
+MongoDB is developed by MongoDB Inc and is published under a combination of the Server Side Public License and the Apache License.
+MongoDB stores data in flexible,meaning fields can vary from document to document and data structure can be changed over time
+The document model maps to the objects in your application code, making data easy to work with
